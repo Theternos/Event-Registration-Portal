@@ -17,7 +17,7 @@ To run the Hackathon Portal locally, follow these steps:
 Clone this repository: git clone https://github.com/Theternos/Event-Registraion-Portal.git  
 Set up a MySQL database and configure the connection details in config.py.  
 Run the application for mail automation: python mail.py  
-Access the portal in your web browser at http://localhost:5000  
+Access the portal in your web browser at http://localhost/Event-Resistration-Portal/  
 
 ## **Contact**  
 If you have any questions or need support, please reach out to me at kavin.apm2003@gmail.com.  
