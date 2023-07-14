@@ -17,5 +17,4 @@ if(mysqli_query($conn, $sql)){
 echo "Could not insert record: ". mysqli_error($conn);  
 }  
   
-mysqli_close($conn);  
-?>  
+mysqli_close($conn);
