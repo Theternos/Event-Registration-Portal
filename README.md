@@ -18,7 +18,7 @@ The Hackathon Portal is a powerful web application designed to streamline the ha
 
 To run the Hackathon Portal locally, follow these steps:
 
-Clone this repository: ```git clone https://github.com/Theternos/Event-Registraion-Portal.git```
+Clone this repository: ```git clone https://github.com/Theternos/Event-Registraion-Portal.git```    
 Move the folder "Event-Registration-Portal" (```cd Event-Registration-Portal```) to www in WAMP or htdocs in XAMP   
 Set up a MySQL database and configure the connection details in ```./config.py ```.  
 Run the application for mail automation: ```./python mail.py```  
