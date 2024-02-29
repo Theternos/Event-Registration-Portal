@@ -32,4 +32,4 @@ Let's unlock a world of innovation and collaboration with the Hackathon Portal! 
 
 ## **License**
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. 
